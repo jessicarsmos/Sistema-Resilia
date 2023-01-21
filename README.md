@@ -3,6 +3,7 @@ Trabalho individual/ Projeto do modulo 4 - modelar um banco de dados.
  
 <br>
 ⇨ Existem outras entidades além dessas três?
+
 >não!
 <br>
 
