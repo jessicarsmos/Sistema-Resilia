@@ -10,3 +10,10 @@ Trabalho individual/ Projeto do modulo 4 - modelar um banco de dados.
 ⇨ Quais são os principais campos e tipos?
 >ID do aluno, ID do curso e ID da turma.
 <br>
+
+<br>
+
+# modelos
+## modelo logico
+![modelo logico](img/trabalhojessica.png)
+
